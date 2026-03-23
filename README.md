@@ -60,8 +60,8 @@ project/
 
 ## How It Works
 The collector:
-1. Loads keywords from a text file
-2. Sends paginated requests to OpenAlex\
+1. Loads keywords from a text file.
+2. Sends paginated requests to OpenAlex.
 3. Extracts key metadata such as:
      - title
      - DOI
@@ -71,8 +71,8 @@ The collector:
      - abstract
      - OpenAlex ID
      - citation count
-4. Appends only new records to the output CSV
-5. Saves checkpoint state after each page so collection can resume later
+4. Appends only new records to the output CSV.
+5. Saves checkpoint state after each page so collection can resume later.
 
 ## Function Definition
 * `load_keywords()`: Loads search keywords(query) from 'keywords.txt'.
@@ -124,7 +124,7 @@ The collector:
 * `USE_LEGACY_TITLE_ABSTRACT_SEARCH` (optional setting)
     - True: `title_and_abstract.search` (include title and abstract)
     - False: `filter=field.search` (include title, abstract, and full-text)
-    - For related information, please visit developers.openalex.org
+    - For related information, please visit (https://developers.openalex.org).
 
 
 ## Notes
