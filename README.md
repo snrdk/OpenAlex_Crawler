@@ -19,8 +19,8 @@ This code currently includes results collected from 17 query keywords(See the fi
 1) Python 3.10+
 
 2) Libraries
-  - `requests`
-  - `tqdm`
+    - `requests`
+    - `tqdm`
   
    Install dependencies with:
 ```bash
