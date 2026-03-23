@@ -43,6 +43,7 @@ The notebook generates the following files:
 
 
 ## Files
+```bash
 project/
 ├─ openalex_collector.ipynb
 ├─ keyword_pilot.txt
@@ -51,6 +52,7 @@ project/
 ├─ EV_pilot.csv
 ├─ checkpoint.json
 └─ failed_queries.txt
+```
 
 
 ## How It Works
