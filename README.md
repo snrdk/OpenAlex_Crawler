@@ -21,6 +21,7 @@ This code currently includes results collected from 17 query keywords(See the fi
 2) Libraries
 - `requests`
 - `tqdm`
+  
    Install dependencies with:
 ```bash
 pip install -r requirements.txt
