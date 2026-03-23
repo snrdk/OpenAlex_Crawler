@@ -23,7 +23,8 @@ This code currently includes results collected from 17 query keywords(See the fi
 - `tqdm`
    Install dependencies with:
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 3) Api key (or e-mail)
    : Although data can be collected via email, this code is optimized for collection using an individual API key.
