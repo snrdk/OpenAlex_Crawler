@@ -58,14 +58,14 @@ The collector:
 1. Loads keywords from a text file
 2. Sends paginated requests to OpenAlex\
 3. Extracts key metadata such as:
-  - title
-  - DOI
-  - publication year
-  - journal/source
-  - authors
-  - abstract
-  - OpenAlex ID
-  - citation count
+     - title
+     - DOI
+     - publication year
+     - journal/source
+     - authors
+     - abstract
+     - OpenAlex ID
+     - citation count
 4. Appends only new records to the output CSV
 5. Saves checkpoint state after each page so collection can resume later
 
