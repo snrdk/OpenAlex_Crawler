@@ -1,4 +1,4 @@
-# OpenAledx_Crawler
+# OpenAlex_Crawler
 A lightweight OpenAlex paper collection tool for keyword-based searches.
 By entering specific search keywords (query keywords) selected by the user in a certain domain, it collects the bibliographic information of the papers that appear in the search results for those query keywords.
 
