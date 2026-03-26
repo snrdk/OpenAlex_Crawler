@@ -1,0 +1,27 @@
+{
+  "done_queries": [
+    "AV",
+    "Autonomous Vehicle",
+    "Drone",
+    "EV",
+    "Electric Vehicle",
+    "HEV",
+    "Hybrid Electric Vehicle",
+    "IVI",
+    "In-Vehicle Infotainment",
+    "Intelligent Transportation Systems",
+    "Secondary Battery",
+    "Service Robot",
+    "Shared Mobility",
+    "Shared Mobility Service",
+    "Smart Logistics",
+    "Smart Ship"
+  ],
+  "query_state": {
+    "ITS": {
+      "cursor": "IlsyLjM2Mjg4MjEsIDE2ODIyOTQ0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM2NjgyOTc5MyddIg==",
+      "page_count": 29229,
+      "total_new_rows": 2299355
+    }
+  }
+}
