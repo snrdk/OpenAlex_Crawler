@@ -52,7 +52,9 @@ project/
 ├─ keyword_pilot.txt
 ├─ requirements.txt
 ├─ README.md
-├─ EV_pilot.csv
+├─ Transportation_pilot.csv
+├─ Transportation_pilot_abbrev_only.csv
+├─ Transportation_pilot_full_phrase_queries
 ├─ checkpoint.json
 └─ failed_queries.txt
 ```
