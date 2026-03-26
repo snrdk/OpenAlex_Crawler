@@ -47,16 +47,20 @@ The notebook generates the following files:
 
 ## Files
 ```bash
-project/
-├─ openalex_collector.ipynb
-├─ keyword_pilot.txt
-├─ requirements.txt
+OpenAlex_Crawler/
+├─ .gitattributes
+├─ .gitignore
 ├─ README.md
-├─ Transportation_pilot.csv
-├─ Transportation_pilot_abbrev_only.csv
-├─ Transportation_pilot_full_phrase_queries
+├─ requirements.txt
+├─ keyword_pilot.txt
 ├─ checkpoint.json
-└─ failed_queries.txt
+├─ failed_queries.txt
+├─ dataset/
+│  ├─ Transportation_pilot.zip
+│  ├─ Transportation_pilot_abbrev_only.zip
+│  └─ Transportation_pilot_full_phrase_queries.csv
+└─ notebooks/
+   └─ openalex_collector.ipynb
 ```
 
 
